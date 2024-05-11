@@ -13,12 +13,12 @@ Responsive Design: The app is responsive and works well on various devices.
 
 ---Technologies Used---
 
-React: Frontend library for building user interfaces.
-Tailwind Css: For UI Design and responsiveness.
-React-Hot-Toast: For custom messages
-React Router: Library for routing in React applications.
-Leaflet: JavaScript library for interactive maps.
-localStorage: Web storage API for storing data locally in the browser.
+- React: Frontend library for building user interfaces.
+- Tailwind Css: For UI Design and responsiveness.
+- React-Hot-Toast: For custom messages
+- React Router: Library for routing in React applications.
+- Leaflet: JavaScript library for interactive maps.
+- localStorage: Web storage API for storing data locally in the browser.
 
 
 ---Getting Started---
