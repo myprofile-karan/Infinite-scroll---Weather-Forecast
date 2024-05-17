@@ -1,5 +1,7 @@
 --------------CITY WEATHER APP --------------
 
+- Live Linkk: https://infinite-scroll-weather.netlify.app/
+
 City Weather App is a web application that allows users to search for cities and view their weather information. Users can also save their favorite locations for quick access.
 
 ---Features---
